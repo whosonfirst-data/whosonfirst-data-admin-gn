@@ -52,7 +52,7 @@
         "wk:page":"Sar%C3%A9kaly"
     },
     "wof:country":"GN",
-    "wof:geomhash":"6c922704e6d3bb95fb51a2fa88858c9a",
+    "wof:geomhash":"b8831daec131d137ed99355129abc2e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     -13.0,
     11.0667
 ],
-  "geometry": {"coordinates":[-13.0,11.0667],"type":"Point"}
+  "geometry": {"coordinates":[-13,11.0667],"type":"Point"}
 }

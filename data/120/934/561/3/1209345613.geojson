@@ -39,7 +39,7 @@
         "gn:id":2416108
     },
     "wof:country":"GN",
-    "wof:geomhash":"cca45639e0d17e2938faa3e73c1fa677",
+    "wof:geomhash":"188d28388e617714726f6fbb23b4db90",
     "wof:hierarchy":[
         {
             "country_id":85632691,
@@ -62,5 +62,5 @@
     -10.26667,
     9.0
 ],
-  "geometry": {"coordinates":[-10.26667,9.0],"type":"Point"}
+  "geometry": {"coordinates":[-10.26667,9],"type":"Point"}
 }
