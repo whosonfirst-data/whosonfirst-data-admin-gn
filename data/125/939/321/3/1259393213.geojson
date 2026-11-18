@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Bandama"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u90a6\u8fbe\u9a6c\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u73ed\u9054\u99ac\u6e56"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -122,7 +116,7 @@
         }
     ],
     "wof:id":1259393213,
-    "wof:lastmodified":1636502738,
+    "wof:lastmodified":1794999722,
     "wof:name":"Bandama",
     "wof:parent_id":421191559,
     "wof:placetype":"locality",
