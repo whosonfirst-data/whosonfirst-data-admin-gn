@@ -1,0 +1,74 @@
+{
+  "id": 9895028200,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.13861,10.63458,-12.13861,10.63458",
+    "geom:latitude":10.63458,
+    "geom:longitude":-12.13861,
+    "iso:country":"GN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12129647: name \"Silaty\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12129647"
+        },
+        {
+            "citation":"GeoNames populated place 12129647: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12129647"
+        },
+        {
+            "citation":"GeoNames populated place 12129647: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12129647"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421188475 (Mamou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691,
+        85671473,
+        102191573,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12129647
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"e656b4e1e29575c11e184998b83dc717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":9895028200,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":9895028200,
+    "wof:lastmodified":1795735154,
+    "wof:name":"Silaty",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.13861,
+    10.63458,
+    -12.13861,
+    10.63458
+],
+  "geometry": {"coordinates":[-12.13861,10.63458],"type":"Point"}
+}
