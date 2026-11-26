@@ -1,0 +1,75 @@
+{
+  "id": 9895028218,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.43699,10.28578,-12.43699,10.28578",
+    "geom:latitude":10.28578,
+    "geom:longitude":-12.43699,
+    "gn:population":31312,
+    "iso:country":"GN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562331: name \"Kolent\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562331"
+        },
+        {
+            "citation":"GeoNames populated place 13562331: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562331"
+        },
+        {
+            "citation":"GeoNames populated place 13562331: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562331"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890455267 (Kindia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691,
+        85671429,
+        102191573,
+        890455267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562331
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ff51ce7183d520d7bc7ad17c3ef93bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":890455267,
+            "locality_id":9895028218,
+            "region_id":85671429
+        }
+    ],
+    "wof:id":9895028218,
+    "wof:lastmodified":1795735154,
+    "wof:name":"Kolent\u00e9",
+    "wof:parent_id":890455267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.43699,
+    10.28578,
+    -12.43699,
+    10.28578
+],
+  "geometry": {"coordinates":[-12.43699,10.28578],"type":"Point"}
+}

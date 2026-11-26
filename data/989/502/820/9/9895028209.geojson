@@ -1,0 +1,74 @@
+{
+  "id": 9895028209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.16835,10.72185,-12.16835,10.72185",
+    "geom:latitude":10.72185,
+    "geom:longitude":-12.16835,
+    "iso:country":"GN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12129659: name \"Banga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12129659"
+        },
+        {
+            "citation":"GeoNames populated place 12129659: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12129659"
+        },
+        {
+            "citation":"GeoNames populated place 12129659: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12129659"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421188475 (Mamou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691,
+        85671473,
+        102191573,
+        421188475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12129659
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"2d51c924015fca020ce94ecdf2a0b58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421188475,
+            "locality_id":9895028209,
+            "region_id":85671473
+        }
+    ],
+    "wof:id":9895028209,
+    "wof:lastmodified":1795735154,
+    "wof:name":"Banga",
+    "wof:parent_id":421188475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.16835,
+    10.72185,
+    -12.16835,
+    10.72185
+],
+  "geometry": {"coordinates":[-12.16835,10.72185],"type":"Point"}
+}

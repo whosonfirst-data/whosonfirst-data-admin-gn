@@ -1,0 +1,74 @@
+{
+  "id": 9895028212,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.04221,11.76601,-10.04221,11.76601",
+    "geom:latitude":11.76601,
+    "geom:longitude":-10.04221,
+    "iso:country":"GN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750025: name \"Carrefour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750025"
+        },
+        {
+            "citation":"GeoNames populated place 12750025: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750025"
+        },
+        {
+            "citation":"GeoNames populated place 12750025: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750025"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421198017 (Siguiri), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632691,
+        85671489,
+        102191573,
+        421198017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750025
+    },
+    "wof:country":"GN",
+    "wof:geomhash":"ca9a20edb2768eff27a7098432abc5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198017,
+            "locality_id":9895028212,
+            "region_id":85671489
+        }
+    ],
+    "wof:id":9895028212,
+    "wof:lastmodified":1795735154,
+    "wof:name":"Carrefour",
+    "wof:parent_id":421198017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.04221,
+    11.76601,
+    -10.04221,
+    11.76601
+],
+  "geometry": {"coordinates":[-10.04221,11.76601],"type":"Point"}
+}
